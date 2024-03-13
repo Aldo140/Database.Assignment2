@@ -1,5 +1,5 @@
 %-------------------------------------------------------------
-% Facts
+% Facts:
 employee(john).
 employee(franklin).
 employee(alicia).
